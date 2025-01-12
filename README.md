@@ -56,7 +56,7 @@
 داده های خام از دیتاست <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kaggle.com/datasets/abhikjha/utk-face-cropped&ved=2ahUKEwjv4tiruuuKAxWZ87sIHeg-OjcQFnoECBYQAQ&usg=AOvVaw0vrJa6KzDcoST2A01p3UVY">UTK face</a> استفاده شده است. عکس ها به صورت برش خورده چهره هستند. عکس ها در پوشه داده ذخیره میشود. 
 
 ## ساختار مدل سازی
-<img src="img/model_diagram.jpg">
+<img src="docs/model_diagram.jpg">
 
 
 </div>
